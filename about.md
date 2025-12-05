@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Walking the Silent Warrior’s Path"
-permalink: /about/silent-warrior/
 ---
 
 [← Back to Silent Warrior Home]({{ site.baseurl }}/)
