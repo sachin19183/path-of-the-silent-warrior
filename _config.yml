@@ -4,6 +4,10 @@ description: "Relentless Pursuit of Knowledge & Strength"
 
 # Use the same remote theme as KS Tech Notes
 remote_theme: "mmistakes/minimal-mistakes"
+collections:
+  posts:
+    output: true
+breadcrumbs: true
 
 # Project site settings (IMPORTANT)
 url: "https://sachin19183.github.io"
