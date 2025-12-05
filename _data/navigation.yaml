@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: "{{ site.baseurl }}/about/"
   - title: "Philosophy"
-    url: "{{ site.baseurl }}/philosophy/"
+    url: /philosophy/
   - title: "KS Tech Notes"
     url: "https://sachin19183.github.io"
     external: true
