@@ -1,12 +1,21 @@
 title: "Path of the Silent Warrior"
+name: "Silent Warrior"
 description: "Relentless Pursuit of Knowledge & Strength"
 
-# GitHub Pages Project Site Settings
+# Use the same remote theme as KS Tech Notes
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Project site settings (IMPORTANT)
 url: "https://sachin19183.github.io"
 baseurl: "/path-of-the-silent-warrior"
 
-# Theme
-theme: jekyll-theme-cayman
-
-# Recommended Optional Settings
 markdown: kramdown
+
+plugins:
+  - jekyll-include-cache
+
+# Optional: choose a skin (you can experiment with these)
+minimal_mistakes_skin: "dark"
+#minimal_mistakes_skin: "default"
+
+# (You can add _data/navigation.yml later if you want a top nav)
