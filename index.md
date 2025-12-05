@@ -28,11 +28,11 @@ this space can be a source of motivation for you.
 
 📌 **Who is the Silent Warrior?**  
 Discover the mindset and origin story:  
-➡️ [Walking the Silent Warrior’s Path]({{ site.baseurl }}/about/)
+➡️ [Walking the Silent Warrior’s Path]({{ site.baseurl }}/about.html)
 
 📌 **Read the Philosophy Posts**  
 Reflections and inner battles documented here:  
-➡️ [Silent Warrior Philosophy]({{ site.baseurl }}/philosophy/)
+➡️ [Silent Warrior Philosophy]({{ site.baseurl }}/philosophy.html)
 
 ---
 
