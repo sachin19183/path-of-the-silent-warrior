@@ -14,6 +14,7 @@ and a quiet question surfaces:
 
 “Am I walking my path… or performing someone else’s script?”
 
+Often 
 ---
 
 ## The Conditioning
