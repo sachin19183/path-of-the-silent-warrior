@@ -1,12 +1,12 @@
 main:
   - title: "Home"
-    url: /path-of-the-silent-warrior/
+    url: /
 
   - title: "About"
-    url: /path-of-the-silent-warrior/about/
+    url: /about/
 
   - title: "Philosophy"
-    url: /path-of-the-silent-warrior/philosophy/
+    url: /philosophy/
 
   - title: "KS Tech Notes"
     url: https://sachin19183.github.io
