@@ -11,7 +11,7 @@ breadcrumbs: true
 
 # Project site settings (IMPORTANT)
 url: "https://sachin19183.github.io"
-baseurl: "/path-of-the-silent-warrior"
+baseurl: "/path-of-the-silent-warrior/"
 
 markdown: kramdown
 
