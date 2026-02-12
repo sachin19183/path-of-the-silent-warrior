@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "The Path of the Silent Warrior"
+permalink: /
 classes: wide
 ---
              
