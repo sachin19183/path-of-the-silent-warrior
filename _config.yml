@@ -21,5 +21,5 @@ plugins:
 # Optional: choose a skin (you can experiment with these)
 minimal_mistakes_skin: "dark"
 #minimal_mistakes_skin: "default"
-
+future: true
 # (You can add _data/navigation.yml later if you want a top nav)
