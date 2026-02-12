@@ -1,10 +1,13 @@
 main:
   - title: "Home"
-    url: "{{ site.baseurl }}/"
+    url: /path-of-the-silent-warrior/
+
   - title: "About"
-    url: "{{ site.baseurl }}/about/"
+    url: /path-of-the-silent-warrior/about/
+
   - title: "Philosophy"
-    url: /philosophy/
+    url: /path-of-the-silent-warrior/philosophy/
+
   - title: "KS Tech Notes"
-    url: "https://sachin19183.github.io"
+    url: https://sachin19183.github.io
     external: true
