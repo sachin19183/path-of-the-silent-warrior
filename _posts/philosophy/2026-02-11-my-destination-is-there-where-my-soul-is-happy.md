@@ -2,7 +2,7 @@
 title: "Dil Khush Jaha… Teri Toh Manzil Hai Wahi"
 date: 2026-02-02
 folder: philosophy
-tags: [purpose, joy, self-discovery, life-path]
+categories: [philosophy]
 tone: personal
 inspiration: taare-zameen-par
 ---
