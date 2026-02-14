@@ -1,84 +1,121 @@
 ---
-title: "Dil Khush Jaha… Teri Toh Manzil Hai Wahi"
+title: "Finding happiness while carrying responsibility"
 date: 2026-02-02
 folder: philosophy
 categories: [philosophy]
 tone: personal
-inspiration: taare-zameen-par
+inspiration: Swades
 ---
 
-## Opening Feeling
+## The Question That Surfaces in Silence
 
-There are moments in life when the noise fades…  
+There are moments in life when the noise fades…
 and a quiet question surfaces:
 
-“Am I walking my path… or performing someone else’s script?”
+> “Am I walking my path… or performing someone else’s script?”
 
-Often 
+For all those who are feeling this, I want to tell you that you are not alone. In fact, we are in the majority.
+
+In this materialistic world, where everything has a price tag, it becomes suffocating as we move along our more or less monotonous schedules.
+
+We feel like we are part of a never-ending race, where even a single mistake is costly.
+
+And even though we know deep inside that this is not the right way to live, we still keep running — because apparently, most of us feel we have no other alternative.
+
+Mostly, it is the financial responsibility of carrying our near and dear ones on our shoulders. Paying for their education, medical bills, comfort, and luxuries is what pushes us into this relentless race.
+
+But an important thing to remember is that life is hard, often cruel, and tests us at every moment. It is a rollercoaster ride.
+
+So how one navigates it with some sense of contentment, enjoyment, and fulfillment is what ultimately defines an individual.
+
+Based on the Silent Warrior’s experience, here are a few pieces of advice to live through the struggles we go through.
+
 ---
 
-## The Conditioning
+## The Conditioning of What We Are Supposed to Do
 
-Reflect on how society defines “destination”.
+* You should be financially well-to-do. Every individual must be at least a millionaire by the time they reach 30 (averaging the financial milestone here, as it may go up or down based on your economic background).
+* You should be a role model for others around you.
+* You should be a leader in your field.
+* Forget enjoying life — that is for children!!
+* When you are a child, forget enjoying — focus on studies.
+* When you grow old and retire, then you can enjoy all you want.
 
+This is a generic mantra given to most of us, isn’t it?
 
+What it does is make us feel that we need to be competitive and focus only on the big picture in the future — forgetting about what we have in the present and living it a little.
+
+Happiness and success become directly proportional to the assets we own (money, real estate, large number of followers, etc.).
 
 ---
 
 ## The Forgotten Compass
 
-Introduce the idea that joy is guidance.
+If you calm your mind and observe, think about this:
 
-Questions you can explore:
+1. You saw an unknown person who needed a blanket to survive the cold night ahead. You happened to have that extra blanket, and you gave it. Will the gratitude in that person’s eyes make you feel happy and give you a sense of achievement?
 
-- When did i stopped listening to what makes me feel alive?  
-- Why is happiness treated as a side effect, not a direction?  
-- Who decided struggle is more noble than joy?  
+2. When your parents fall ill and you are certain that they may not survive for long, you have the means to sidestep everything else going on in your life and spend that time with them, giving them comfort. Will that give you closure and save you from the guilt of not being there for them while being busy running after money?
 
-This is where the song’s emotional seed sits.
+3. It rained after a long, hot summer — and you were able to bathe in it, enjoying the present moment.
 
----
+4. You are able to pursue your hobby in your free time — it could be painting, writing, music, dance, travelling, hiking, or playing games.
 
-## Childhood Clues
+These are all basic life situations that we come across — opportunities to pause, break from the race, and truly live.
 
-- What i loved doing effortlessly?
-  1) I was a shy kid who was the silent one in the class of 30 odd pupils. This behaviour echoed at my relative's place as well.When i was in 2nd standard(around 8 years) i picked up drawing and apparently it gave me a medium to express. i was pretty bad at it initially but over time i became decent and in 6th standard my painting on the Bomaby stock exchange fire incident was displayed outside our principle's office. This was a big achievement. The reason: I was very creative in drawing the fire with vibrant color combinations.
-  2) As my confidence grew, it started reflecting in my study and marks. I was an average student and pretty much content being in top 10 (5th till 10th). My strong suits were the language subjects especially Hindi (which also i my mother tongue) and Sanskrit. Boy o boy i loved these subjects and the more i studied the stories, poems, sholkas , the more i enjoyed grasping the new knwledge about different persepctives that i was unaware before. I loved writing long essays, interpretaions of shlokas and this became my new passion other than drawing as it gave another medium for me to express myself. The Teachers observed this and encouraged me further.
-  3) So my language teacher Mrs Mridula saw something in me(which i still dont know how she figured it out) and told me that she would take me to an English debate competition. Mins you, i was not so good in English especially the speaking part as my environement was full hindi speaking with little or zero exposure of english speaking people. I was afraid but said yes as it meant i get to write a long speech , this time in english. In the era of no internet, i started prepping by reading english newspapers in library, watching the English news bulletin in Doordarshan at night time to pick up the mannerisms of  spoken english. this was all my Ridula mam asking me to follow as part of prep. She helped me writing the speech as the topics were known in advance. It was an inter school competition.  Then on the day of my first ever debate (that too in English) we went to the venue which was the biggest library in Delhi (the Delhi public library in old delhi). There was a huge crowd in there. My speech was in favor of the topic. I went up to the podium , scared to hell inside but not showing it outside somehow. the podium was coveredso it hid my trembling legs while i was speaking in more or less DD news tone( less expression and a monotonus tone) just the way i rehersed it. I finished without forgetting a owrd and felt happy that i did good and have a chance of winning. Boy oh boy i was so wrong!!! There came my opponent, a smart girl from Delhi public school mathura road(one of the most prestigious school in delhi at that time). As she started her counter argument, she was pure brilliance. From the confidence to diction, expressions, everything bang on. once she finished, there was a huge applause. While returning to her seat, she gave me a death stare. My confidence(whatever was left) was buried dep inside somewhere. This was my first taste of failure on public platform. I asked Mridula mam not to take me in any further competition as it was not my cup of tea. She didnt said anything at tha time. Few months passed and she came up again and aksed me to write a speech this time for someone else. The language was hindi and i was asked to write against the motion(as they say in debate language). I agreed happily as i was only suppose dto write. But my teacher had other plans. During rehersals, i use to sit there and make changes in the script where i felt i have missed a point. Because of my interest in shlokas and other hindi literature, i added some punchlines. Mridula mam was not happy with the child who was reading the speech. Then she asked me to read it with expression to guide the other child. As it was my speech and i had done lot of research writing it. i knew where to give pause, where to show agression, where to calm down. So i read it even without seeing it. There was clapping in that limited audience and then Mridula mam siad it out loud- Sachin, you will take part in the competion not as a writer but as an orator. So very cleverly she tricked me into it. As it was an intra school competion where i knew most of the participants, i felt comfortable and said yes. Later i won it as well. This win kickstarted my debate journey. Not only i won most of the time but i got accolades for the writing part. This was my kick or drug which gave me high. Writing speeches and making my counter part speechless(because my preparation involved making notes on how the other one can counter or bring on the table) i used to write two speeches: one for the motion and one against the motion. This allowed me to change my speech on th go and majorly helped me win.
-  4) I loved dancing may be always. I used to copy Hero's steps when the songs came on Chitrahar. Mithun and Govinda were my favorites. This again was one medium where i was no longer shy and simply expressed my joy. I was one of most sought after dancer during family functions and i never said no. 
-     
-- Activities that dissolved time  
-- Passions dismissed as impractical  
+These are sources of true happiness and inner peace.
 
-
+There could be many more such examples where one can derive true happiness and a sense of achievement.
 
 ---
 
-## The Fear of Choosing Joy
+## The Fear or Inner Resistance
 
-Explore resistance:
+While you are reading this, a thought would naturally arise — that all this is easier said than done.
 
-- financial obligations  
-- Fear of instability   
-- Guilt in choosing oneself  
+You may have:
 
+* Financial obligations
+* Fear of instability
+* Guilt in choosing yourself
+
+And the Silent Warrior is not denying any of these. These are all real for most of us.
+
+When we are struggling just to keep the lights on, how can anyone expect charity, self-reflection, morality, or time for hobbies?
+
+You may be working on a company assignment abroad, carrying the financial burden for your family. Your parents’ treatment may be financed only because you are away.
+
+All these realities are valid — and right in their own place.
+
+> **The question is not about abandoning responsibility — but about discovering happiness even while carrying it.**
 
 ---
 
-## Redefining “Manzil” (Destination)
+## Redefining Success
 
+The key is to challenge the conditioning. Success is not always materialistic. Living life cannot be pushed to post-retirement, when our body may no longer feel like enjoying it.
 
-- Destination is not geography, but inner alignment  
-- Peace is progress  
-- Joy is not distraction — it is direction  
+How many of us would be fit enough then to go hiking, travel every weekend or month, or eat anything we want to?
 
+> The Silent Warrior does not endorse the “You Live Only Once” philosophy.
+> He endorses **“Understand your limitations and still find ways to live”** philosophy.
+
+Each one has their own path. What suits one may not be suitable for another individual.
+
+However, one thing I believe in very strongly — if we can make a positive change in someone’s life, that is success. If we can resolve conflict without bias or favoritism, that is success. If we can enjoy little moments in our present, that too is success.
+
+We should strive to be in that position.
+
+There is no end to greed or perfection. Knowing when to stop — or slow down — is the key.
+
+If our moral compass points towards being human first, then I am sure we can make Earth a better place to live for all living beings.
 
 ---
 
 ## A Personal Realization
 
-Do i feel:
+The Silent Warrior has also gone through a lot in life and is trying to uncondition himself to become a better human being.
 
-- Closer to my authentic path?  
-- Still unlearning conditioning?  
-- More
+Writing has been his passion since early life, and through these blogs, he is rekindling his inner voice — striving for a deeper sense of success: to make a positive difference in someone else’s life.
+
+---
