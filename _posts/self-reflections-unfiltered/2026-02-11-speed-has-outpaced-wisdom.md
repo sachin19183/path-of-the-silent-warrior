@@ -16,10 +16,12 @@ We as children and our parents and our joint family had time to spend with each 
 -To talk to our parents and vice versa
 -To just be in our word
 -And ofcourse study in between when forced to do so
+
+> Life was slow and easy. No stress to reach anywhere.
+
 Then in the 90's we got TV becoming more accessible as means of entertainment which we still had limited access as their were only 2 channels to begin with. but the cartoons on DD metro were lot better than what i see today(except the anime which mainly is for the adult audience)
-Gradually landline phones were within reach so communication between relatives/friends became easier. My mother (god bless her soul) used it the most though :)
-with the 2000's era technology started to evolve at an increased pace. First 2G came and with it came mobile phones. By the mid 2000's i got my first mobile post my first job salary
-(actually diwali bonus which now i wonder has altogether vanished). 
+Gradually landline phones were within reach so communication between relatives/friends became easier. 
+With the 2000's era technology started to evolve at an increased pace. First 2G came and with it came mobile phones. 
 
 Example:
 
