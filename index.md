@@ -22,7 +22,7 @@ for he stands by his ethics,
 refuses to lose himself in the crowd,
 and never bows down before incompetence or injustice.
 
-He fights to become **unstoppable**.
+He stirves to become **one man army** by chanelling his anger into effective honing of his skills.
 
 If you’ve ever felt invisible, underestimated, or left behind —
 this space can be a source of motivation for you.
