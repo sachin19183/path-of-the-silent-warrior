@@ -41,7 +41,7 @@ Even when life pushed me down,
 even when motivation faded,  
 even when I doubted myself…
 
-The silent warrior within me remains.
+The silent warrior within me motivated me to get back one more time.
 
 This space is my personal dojo —  
 a place to document my thoughts, struggles, and growth  
