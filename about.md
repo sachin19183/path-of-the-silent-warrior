@@ -30,8 +30,16 @@ In my early years, movies like *Lakshya* ignited my spirit —
 
 Then poetry like *Agnipath* taught me:
 
-> *“Ek path chhaav bhi maang mat”*  
-> (Do not depend on anyone, not even for shade.)
+> *“Vriksh hon bhale khade,
+Hon ghane, hoh bade,
+Ek patra chhah bhi
+Maang mat! Maang mat! Maang mat!
+> Agneepath! Agneepath! Agneepath!”*  
+> (Even if there are mighty trees all around you,
+Let them be shady, let them be huge,
+But, even for the shade of a single leaf,
+Beg not, beg never, ask never!
+The path of fire you shall tread!)
 
 Later, characters like Might Guy, Rock Lee, and Naruto reminded me that:
 
