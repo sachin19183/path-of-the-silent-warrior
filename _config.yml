@@ -19,6 +19,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
 
 # Optional: choose a skin (you can experiment with these)
 minimal_mistakes_skin: "dark"
