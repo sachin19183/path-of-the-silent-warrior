@@ -12,7 +12,7 @@ collections:
 breadcrumbs: true
 
 # Project site settings (IMPORTANT)
-url: "https://sachin19183.github.io"
+url: "https://thesilentwarrior.org"
 baseurl: "/path-of-the-silent-warrior/"
 
 markdown: kramdown
