@@ -1,7 +1,7 @@
 title: "Path of the Silent Warrior"
 name: "Silent Warrior"
 description: "Relentless Pursuit of Knowledge & Strength"
-
+google_analytics: G-G0968414TJ
 # Use the same remote theme as KS Tech Notes
 remote_theme: "mmistakes/minimal-mistakes"
 collections:
