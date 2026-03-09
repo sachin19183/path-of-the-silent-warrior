@@ -1,7 +1,13 @@
 title: "Path of the Silent Warrior"
 name: "Silent Warrior"
 description: "Relentless Pursuit of Knowledge & Strength"
-google_analytics: G-G0968414TJ
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-G0968414TJ"
+    anonymize_ip: false
+
 google_site_verification: KefY_ZWqzA3q_Uxxlf5eZa7d6g1H0xSPPg-VcgbdlBA
 
 # Use the same remote theme as KS Tech Notes
