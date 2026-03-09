@@ -46,7 +46,7 @@ Visit the main page here:
 
 ---
 
-Comming Soon: My experimental projects based on hwat i have learned in  
+Coming Soon: My experimental projects based on hwat i have learned in  
 [Dojo of Silent Warrior](https://thesilentwarrior.org)
 
 *Silent Warrior — victory begins within.*
