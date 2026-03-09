@@ -42,7 +42,7 @@ Reflections and inner battles documented here:
 ### 🔗 Return to Main Home Page
 This philosophy site is a part of my larger knowledge journey.  
 Visit the main page here:  
-➡️ [sachin19183.github.io](https://sachin19183.github.io)
+➡️ [thesilentwarrior.org](https://thesilentwarrior.org)
 
 ---
 
