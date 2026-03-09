@@ -8,6 +8,6 @@ main:
   - title: "Philosophy"
     url: /philosophy/
 
-  - title: "KS Tech Notes"
-    url: https://sachin19183.github.io
+  - title: "Engineering Field Notes"
+    url: https://thesilentwarrior.org
     external: true
