@@ -46,7 +46,7 @@ Visit the main page here:
 
 ---
 
-You can also find my technical notes and experiments here:  
-[KS Tech Notes](https://sachin19183.github.io)
+Comming Soon: My experimental projects based on hwat i have learned in  
+[Dojo of Silent Warrior](https://thesilentwarrior.org)
 
 *Silent Warrior — victory begins within.*
