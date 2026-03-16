@@ -35,10 +35,3 @@ I want to ration my growth and keep it controlled , not exponential.
 There is a saying **Eat only that much which you can digest**
 
 ---
-
-Example:
-
-Speed may define this era…  
-but wisdom still defines what it means to be human.
-
-And wisdom… refuses to hurry.
