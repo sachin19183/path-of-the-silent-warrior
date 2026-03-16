@@ -1,10 +1,7 @@
 ---
 title: "Finding happiness while carrying responsibility"
 date: 2026-02-02
-folder: philosophy
 categories: [philosophy]
-tone: personal
-inspiration: Swades
 ---
 
 ## The Question That Surfaces in Silence
