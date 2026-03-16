@@ -1,7 +1,8 @@
 title: "Path of the Silent Warrior"
 name: "Silent Warrior"
 description: "Relentless Pursuit of Knowledge & Strength"
-
+author:
+  name: "Silent Warrior"
 analytics:
   provider: "google-gtag"
   google:
@@ -26,9 +27,30 @@ markdown: kramdown
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap
+  - jekyll-feed
 
 # Optional: choose a skin (you can experiment with these)
 minimal_mistakes_skin: "dark"
 #minimal_mistakes_skin: "default"
 future: true
+
+comments:
+  provider: giscus
+  giscus:
+    repo: "sachin19183/path-of-the-silent-warrior"
+    repo_id: "R_kgDOQh2f8g"
+    category: "Blog Comments"
+    category_id: "DIC_kwDOQh2f8s4C4hgT"
+    mapping: "title"
+    term: "Discussion: {{ page.title }}"
+    reactions_enabled: "1"
+    input_position: "top"
+    theme: "preferred_color_scheme"
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
 # (You can add _data/navigation.yml later if you want a top nav)
+
