@@ -8,6 +8,6 @@ main:
   - title: "Philosophy"
     url: /philosophy/
 
-  - title: "Engineering Field Notes"
+  - title: "Tech Notes"
     url: https://thesilentwarrior.org
     external: true
