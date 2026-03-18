@@ -8,57 +8,63 @@ author_profile: false
 [← Back to Silent Warrior Home]({{ site.baseurl }}/)
 
 
-════════ ⚔️ Silent Warrior ⚔️ ════════
+════════ ⚔️ The Path of the Silent Warrior ⚔️ ════════
 
-I am a quiet, competitive soul.
+I am a quiet, competitive soul—
+one who refuses to settle for mediocrity,
+who dislikes being unprepared,
+and believes that everything worth having must be earned.
 
-I don’t talk much about my ambitions,  
-and I don’t boast about my achievements.
+Being naturally reserved, I’ve often preferred working in isolation.
+Not because I lack ambition,
+but because I value depth over noise.
 
-But inside, I hate losing.  
-I hate being unprepared.  
-And I believe in earning everything through effort.
-I want to see myself in the mirror with pride every time.
+Over time, life demanded more of me.
+I learned to lead teams, carry responsibility, and work alongside driven people.
+And I found that I value collaboration — when it is built on purpose.
 
-As a shy person, I have always preferred to train in isolation.  
-But beneath the silence lives a fierce desire to grow, compete, and improve.
+But there is one thing I’ve never adapted to:
+noise without substance.
+Politics without purpose.
+Energy spent on proving, instead of improving.
 
-In my early years, movies like *Lakshya* ignited my spirit —
+These experiences pushed me to look inward — to find clarity in ideas that value effort over display.
 
-> *“Lakshya ko har haal mein paana hai”*  
-> (I must reach my destination, no matter what.)
-
-Then poetry like *Agnipath* taught me:
-
+The Poem  *Agnipath* taught me:
 > *“Vriksh hon bhale khade,
-Hon ghane, hoh bade,
-Ek patra chhah bhi
-Maang mat! Maang mat! Maang mat!
-> Agneepath! Agneepath! Agneepath!”*  
-> (Even if there are mighty trees all around you,
-Let them be shady, let them be huge,
-But, even for the shade of a single leaf,
-Beg not, beg never, ask never!
-The path of fire you shall tread!)
+> Hon ghane, hoh bade,
+> Ek patra chhah bhi
+> Maang mat! Maang mat! Maang mat!
+> Agneepath! Agneepath! Agneepath!”*
 
-Later, characters like Might Guy, Rock Lee, and Naruto reminded me that:
+> (Even if there are mighty trees all around you,
+Let them be shady, let them be vast,
+But, even for the shade of a single leaf,
+Beg not, beg never, 
+Walk the path of fire. )
+
+Characters like Might Guy, Rock Lee, and Naruto left me with a belief that never faded:
 
 > **Hard work can surpass talent.**
 
-Even when life pushed me down,  
-even when motivation faded,  
-even when I doubted myself…
+And when I find myself at my lowest, I return to a simple line: 
+> *“Lakshya ko har haal mein paana hai”*  
+> (I must reach my destination, no matter what.)
 
-The silent warrior within me motivated me to get back one more time.
+There were times I lost direction.
+Times when motivation disappeared.
+Times when I doubted myself more than anyone else could.
 
-This space is my personal dojo —  
-a place to document my thoughts, struggles, and growth  
-as I walk the Path of the Silent Warrior.
+But I kept turning inwards, asking tough questions to myself. 
+What kind of a person i want to become? 
+What i need to do to become that person?
 
-If you’ve ever felt like an underdog,  
-or a late bloomer who refuses to quit,  
-you might find a piece of yourself here too.
+This space is my personal dojo —
+a place where I document my thoughts, struggles, and growth
+as I continue to build that discipline, day by day.
+
+If you’ve ever felt like an underdog,
+or someone who started late but refuses to stop —
+you may find something here that resonates.
 
 ---
-
-*Silent Warrior — victory begins within.*
