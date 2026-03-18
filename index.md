@@ -7,8 +7,10 @@ classes: wide
 
 ════════ ⚔️ Silent Warrior ⚔️ ════════
 
-Welcome to my personal philosophy journal.
-
+Welcome to my personal philosophy journal. This space follows the journey of a Silent Warrior — a persona shaped by discipline, silence, and an unending pursuit of purpose.
+Perhaps every reader carries a fragment of this warrior within.
+  We all face hardships- some that make sense, and some which dosen't. Yet we need to continue our journey and take one challenge at a time.
+The Silent Warrior exists to offer quiet strength — moral support, practical insight, and a steady reminder that resilience is built, not given.
 The philosophy behind this work is inspired in part by the words of Atal Bihari Vajpayee:
 
 > क्या हार में, क्या जीत में  
@@ -18,22 +20,10 @@ The philosophy behind this work is inspired in part by the words of Atal Bihari 
 > वरदान नहीं मांगूंगा  
 > हो कुछ पर हार नहीं मानूंगा।
 
-The idea is simple — focus on the work, accept outcomes, and continue learning without surrender.
-
-This space follows the journey of a **Silent Warrior** — a fictional character who trains in the shadows with relentless discipline, seeking knowledge, strength, and purpose.
-
-Along the path, he faces many hardships —  
-some that make sense,  
-and some that offer no explanation at all.
-
-Yet the Silent Warrior continues.
-
-He stands by his ethics, refuses to lose himself in the crowd, and never bows before incompetence or injustice.
-
-He strives to become a **one-man army** by channeling his anger into the disciplined honing of his skills.
-
-If you have ever felt invisible, underestimated, or left behind —  
-this space may offer a source of motivation for you.
+The idea is simple — focus on the work, accept outcomes, and continue learning without surrender. 
+Stand by your ethics.
+Refuse to lose yourself in the crowd.
+And never bow before injustice.
 
 ---
 
