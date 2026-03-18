@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: false
 
 header:
-  overlay_image: /assets/images/silent_warrior_philosophy_dp.png
+  overlay_image: /assets/silent_warrior_philosophy_dp.png
   overlay_filter: 0.5
 ---
 
