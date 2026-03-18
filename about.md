@@ -1,14 +1,11 @@
 ---
 layout: single
-title: "Walking the Silent Warrior’s Path"
+title: "The Path of Silent Warrior"
 permalink: /about/
 author_profile: false
 ---
 
-[← Back to Silent Warrior Home]({{ site.baseurl }}/)
-
-
-════════ ⚔️ The Path of the Silent Warrior ⚔️ ════════
+════════ ⚔️ Who is Silent Warrior ⚔️ ════════
 
 I am a quiet, competitive soul—
 one who refuses to settle for mediocrity,
