@@ -3,6 +3,10 @@ layout: single
 title: "The Path of Silent Warrior"
 permalink: /about/
 author_profile: false
+
+header:
+  overlay_image: /assets/images/silent_warrior_philosphy_dp.png
+  overlay_filter: 0.5
 ---
 
 ════════ ⚔️ Who is Silent Warrior ⚔️ ════════
