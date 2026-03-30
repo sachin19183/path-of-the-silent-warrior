@@ -1,13 +1,14 @@
 ---
 layout: single
 title: "Contact"
+classes: no-hero-title
 permalink: /contact/
 author_profile: false
 
 header:
   overlay_image: /assets/silent_warrior_philosophy_dp.png
   overlay_filter: 0.4
----
+ ---
 
 ## Get in touch
 
