@@ -6,14 +6,17 @@ author_profile: false
 
 header:
   overlay_image: /assets/silent_warrior_philosophy_dp.png
-  overlay_filter: 0.9
+  overlay_filter: 0.4
 ---
 
-links:
-  - label: "X.com"
-    icon: "fab fa-x-twitter"
-    url: "https://x.com/swsilentwarrior"
+## Get in touch
 
-  - label: "Email"
-    icon: "fas fa-envelope"
-    url: "mailto:contact.silentwarrior@proton.me"
+<div class="contact-links">
+  <a href="https://x.com/swsilentwarrior" target="_blank">
+    <i class="fab fa-twitter"></i> X.com
+  </a>
+
+  <a href="mailto:contact.silentwarrior@proton.me">
+    <i class="fas fa-envelope"></i> Email
+  </a>
+</div>
