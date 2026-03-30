@@ -11,3 +11,6 @@ main:
   - title: "Tech Notes"
     url: https://thesilentwarrior.org
     external: true
+
+  - title: "Contact"
+    url: /contact/
