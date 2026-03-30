@@ -15,42 +15,51 @@
   display: none !important;
 }
 
-/* ================================
-   Contact Links Styling
-================================ */
-.contact-links {
+/* Custom Contact Page Styles */
+.contact-container {
   display: flex;
   flex-direction: column;
-  gap: 12px;
-  margin-top: 1.5rem;
-  max-width: 420px; 
-}
-
-.contact-links a {
-  display: inline-flex;
   align-items: center;
-  justify-content: center;
+  text-align: center;
+  margin-top: 2em;
 
-  text-decoration: none;
-  font-size: 0.95rem;
-  color: inherit;
+  .contact-persona {
+    margin-bottom: 1.5em;
+    
+    img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%; // Makes the persona image circular
+      border: 3px solid $primary-color;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      object-fit: cover;
+    }
+  }
 
-  background: rgba(255, 255, 255, 0.05);
-  padding: 0.75rem 1rem;
-  border-radius: 0.6rem;
+  .contact-info {
+    .contact-item {
+      margin: 10px 0;
+      font-size: 1.1em;
 
-  transition: all 0.2s ease;
-
-  /* Fix long text (email) */
-  word-break: break-word;
-  overflow-wrap: anywhere;
+      i {
+        margin-right: 10px;
+        color: $primary-color;
+      }
+    }
+  }
 }
 
-.contact-links a i {
-  margin-right: 0.6rem;
+/* Responsive adjustment for larger screens */
+@media (min-width: 600px) {
+  .contact-container {
+    flex-direction: row;
+    justify-content: center;
+    text-align: left;
+
+    .contact-persona {
+      margin-right: 2em;
+      margin-bottom: 0;
+    }
+  }
 }
 
-.contact-links a:hover {
-  background: rgba(255, 255, 255, 0.12);
-  transform: translateY(-2px);
-}
