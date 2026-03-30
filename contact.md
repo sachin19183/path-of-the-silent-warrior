@@ -4,13 +4,11 @@ title: "Contact"
 classes: no-hero-title
 permalink: /contact/
 author_profile: false
-
-header:
-  overlay_image: /assets/silent_warrior_philosophy_dp.png
-  overlay_filter: 0.4
 ---
 
-<div class="contact-hero">
+<div class="contact-hero-img">
+  <img src="/assets/silent_warrior_philosophy_dp.png" alt="Contact Banner">
+
   <div class="contact-overlay">
     <h2>Get in touch</h2>
 
