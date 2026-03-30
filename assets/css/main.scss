@@ -16,39 +16,6 @@
 }
 
 /* ================================
-   Contact Hero Image (FINAL)
-================================ */
-.contact-hero-img {
-  position: relative;
-  width: 100%;
-}
-
-.contact-hero-img img {
-  width: 100%;
-  height: auto; /* ensures full image visible */
-  display: block;
-}
-
-/* Center overlay on image */
-.contact-overlay {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-
-  background: rgba(0, 0, 0, 0.6);
-  padding: 2rem;
-  border-radius: 12px;
-  backdrop-filter: blur(6px);
-
-  text-align: center;
-  width: 90%;
-  max-width: 420px;
-
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
-}
-
-/* ================================
    Contact Links Styling
 ================================ */
 .contact-links {
@@ -56,6 +23,7 @@
   flex-direction: column;
   gap: 12px;
   margin-top: 1.5rem;
+  max-width: 420px; 
 }
 
 .contact-links a {
@@ -76,7 +44,6 @@
   /* Fix long text (email) */
   word-break: break-word;
   overflow-wrap: anywhere;
-  text-align: center;
 }
 
 .contact-links a i {
@@ -86,11 +53,4 @@
 .contact-links a:hover {
   background: rgba(255, 255, 255, 0.12);
   transform: translateY(-2px);
-}
-
-/* ================================
-   Overlay Heading Spacing
-================================ */
-.contact-overlay h2 {
-  margin-bottom: 1rem;
 }
