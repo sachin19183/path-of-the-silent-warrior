@@ -3,14 +3,15 @@ layout: single
 title: ""
 permalink: /contact/
 author_profile: false
+classes: wide
 ---
 
-<div class="contact-card">
-  <div class="contact-persona-wrapper">
-    <img src="{{ '/assets/sw_philosophy_dp.jpg' | relative_url }}" class="contact-image" alt="Silent Warrior">
+<div class="contact-split-card">
+  <div class="contact-image-side">
+    <img src="{{ '/assets/sw.png' | relative_url }}" alt="Silent Warrior">
   </div>
 
-  <div class="contact-content">
+  <div class="contact-info-side">
     <h2 class="contact-greeting">Let's Connect</h2>
     <p class="contact-description">Reach out via the platforms below for inquiries, collaborations, or just to say hello.</p>
     
