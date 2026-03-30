@@ -7,7 +7,7 @@ author_profile: false
 
 <div class="contact-card">
   <div class="contact-persona-wrapper">
-    <img src="{{ '/assets/silent_warrior_philosophy_dp.png' | relative_url }}" class="contact-image" alt="Silent Warrior">
+    <img src="{{ '/assets/sw_philosophy_dp.jpg' | relative_url }}" class="contact-image" alt="Silent Warrior">
   </div>
 
   <div class="contact-content">
