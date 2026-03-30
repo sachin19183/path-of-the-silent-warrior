@@ -12,8 +12,9 @@
    Hero Section Tweaks
 ================================ */
 .page__hero--overlay {
-  background-position: center 30%;
-  min-height: 40vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .no-hero-title .page__hero--overlay .page__title {
@@ -39,6 +40,9 @@
   padding: 0.75rem 1rem;
   border-radius: 0.6rem;
   transition: all 0.2s ease;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+  text-align: center;
 }
 
 .contact-links a i {
@@ -51,9 +55,9 @@
 
 .contact-hero {
   position: relative;
-  margin-top: -200px; /* pulls content into hero */
   display: flex;
   justify-content: center;
+  margin-top: 2rem;
 }
 
 .contact-overlay {
