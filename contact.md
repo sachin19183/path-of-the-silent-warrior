@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: false
 ---
@@ -11,7 +11,6 @@ author_profile: false
   </div>
 
   <div class="contact-content">
-    <h2 class="contact-greeting">Let's Connect</h2>
     <p class="contact-description">Reach out via the platforms below for inquiries, collaborations, or just to say hello.</p>
     
     <div class="contact-links">
