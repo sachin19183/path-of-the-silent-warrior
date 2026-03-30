@@ -10,14 +10,18 @@ header:
   overlay_filter: 0.4
 ---
 
-## Get in touch
+<div class="contact-hero">
+  <div class="contact-overlay">
+    <h2>Get in touch</h2>
 
-<div class="contact-links">
-  <a href="https://x.com/swsilentwarrior" target="_blank">
-    <i class="fab fa-twitter"></i> X.com
-  </a>
+    <div class="contact-links">
+      <a href="https://x.com/swsilentwarrior" target="_blank">
+        <i class="fab fa-twitter"></i> @swsilentwarrior
+      </a>
 
-  <a href="mailto:contact.silentwarrior@proton.me">
-    <i class="fas fa-envelope"></i> Email
-  </a>
+      <a href="mailto:contact.silentwarrior@proton.me">
+        <i class="fas fa-envelope"></i> contact.silentwarrior@proton.me
+      </a>
+    </div>
+  </div>
 </div>
