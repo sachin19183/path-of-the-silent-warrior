@@ -16,76 +16,85 @@
   display: none !important;
 }
 
+/* Reset for Wide Layout to move everything Left */
+.layout--single.wide .page__content {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  width: 100% !important;
+  max-width: none !important;
+}
+
 /* Split Card Contact Page Styling */
 .contact-split-card {
   display: flex;
-  flex-direction: column; // Stacked on mobile
-  background: rgba(255, 255, 255, 0.03);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 15px;
-  overflow: hidden; // Ensures the rectangular image follows the card's corners
+  flex-direction: column; 
+  background: #1c1c1e; // Solid dark background to match theme
+  border-radius: 12px;
+  overflow: hidden;
   max-width: 900px;
-  margin: 2em 0; // Aligned to the left
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  margin: 1em 0; // Shifted to absolute left
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+  font-family: "Inter", -apple-system, system-ui, sans-serif;
 
   .contact-image-side {
     width: 100%;
-    height: 300px; // Fixed height for mobile view
+    height: 350px;
     flex-shrink: 0;
+    overflow: hidden;
 
     img {
       width: 100% !important;
       height: 100% !important;
-      object-fit: cover; // Fills the rectangle perfectly
-      display: block;
-      border-radius: 0 !important; // Removes the circle shape
+      object-fit: cover !important;
+      /* CRITICAL: Overriding theme's rounded image defaults */
+      border-radius: 0 !important; 
+      margin: 0 !important;
+      padding: 0 !important;
+      box-shadow: none !important;
     }
   }
 
   .contact-info-side {
-    padding: 3em;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
+    padding: 2.5em;
+    
     .contact-greeting {
       font-size: 2.2em;
-      margin-top: 0;
-      margin-bottom: 0.5em;
+      font-weight: 800;
+      margin-bottom: 0.2em;
       color: #fff;
     }
 
     .contact-description {
       color: #a1a1aa;
-      font-style: italic;
-      margin-bottom: 2.5em;
-      line-height: 1.6;
+      margin-bottom: 2em;
+      line-height: 1.5;
     }
   }
 
   .contact-links {
     display: flex;
     flex-direction: column;
-    gap: 1.5em;
+    gap: 1em;
 
     .contact-row {
       display: flex;
       align-items: center;
-      gap: 20px;
-      padding: 12px 0;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      gap: 15px;
+      padding: 12px 20px;
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 8px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
 
       i {
-        font-size: 1.4em;
         color: #10b981;
-        width: 25px;
+        font-size: 1.2em;
       }
 
       .contact-text {
         .label {
           display: block;
-          font-size: 0.7em;
+          font-size: 0.65em;
           text-transform: uppercase;
           color: #71717a;
           letter-spacing: 1px;
@@ -101,25 +110,20 @@
   }
 }
 
-/* Desktop Split Layout */
-@media (min-width: 800px) {
+/* Desktop Polish: Split 40/60 */
+@media (min-width: 850px) {
   .contact-split-card {
-    flex-direction: row; // Side-by-side on desktop
-    min-height: 500px;
+    flex-direction: row;
+    min-height: 550px;
 
     .contact-image-side {
-      width: 40%; // Image takes 40% of the left side
+      width: 45%;
       height: auto;
     }
 
     .contact-info-side {
-      width: 60%;
+      width: 55%;
+      padding: 4em;
     }
   }
-}
-
-/* Force the page container to align left */
-.layout--single.wide .page__content {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
 }
