@@ -25,15 +25,22 @@
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; // Cleaner, professional font
 
   .contact-persona-wrapper {
+    flex-shrink: 0; // Prevents the container from squishing the image
     margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+   }
     
     .contact-image {
-      width: 280px; // Significantly larger
-      height: 280px;
-      border-radius: 50%;
-      border: 4px solid #10b981; // Teal border to match your icon color
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-      object-fit: cover;
+    width: 250px !important;  // Forced width
+    height: 250px !important; // Forced height
+    object-fit: cover;        // Ensures image isn't stretched inside the circle
+    border-radius: 50%;       // The magic for the circle
+    aspect-ratio: 1 / 1;      // Modern CSS to ensure it stays square
+    border: 4px solid #10b981;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    display: block;
+    max-width: none !important;
     }
   }
 
