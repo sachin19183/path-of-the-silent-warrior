@@ -1,14 +1,14 @@
 ---
 layout: single
-title: "The Path of the Silent Warrior"
+title: "The Silent Path"
 permalink: /
 classes: wide
 ---
 
-════════ ⚔️ Silent Warrior ⚔️ ════════
+════════ ⚔️ Silent Warrior- THE BLADE IS HONED IN SILENCE ⚔️ ════════
 
-Welcome to my personal philosophy journal. This space follows the journey of a Silent Warrior — a persona shaped by discipline, silence, and an unending pursuit of purpose.
-Perhaps every reader carries a fragment of this warrior within.
+Welcome to my personal philosophy journal. This space follows the journey of a Silent Warrior—a persona who focuses on honing his skills without showing off. When the need arises, he does not shy away from a fight. He fights, does his job, and then walks away. He also believes in sharing his skills and knowledge with other willing and deserving warriors. Perhaps every reader carries a fragment of this warrior within.
+
   We all face hardships- some that make sense, and some which dosen't. Yet we need to continue our journey and take one challenge at a time.
 The Silent Warrior exists to offer quiet strength — moral support, practical insight, and a steady reminder that resilience is built, not given.
 The philosophy behind this work is inspired in part by the words of Atal Bihari Vajpayee:
@@ -20,22 +20,19 @@ The philosophy behind this work is inspired in part by the words of Atal Bihari 
 > वरदान नहीं मांगूंगा  
 > हो कुछ पर हार नहीं मानूंगा।
 
-The idea is simple — focus on the work, accept outcomes, and continue learning without surrender. 
-Stand by your ethics.
-Refuse to lose yourself in the crowd.
-And never bow before injustice.
-
 ---
 
 ### 🧭 Start the Journey
 
-📌 **Who is the Silent Warrior?**  
-Discover the mindset and origin story:  
-➡️ [Walking the Silent Warrior’s Path]({{ site.baseurl }}/about/)
-
 📌 **Read the Philosophy Posts**  
 Reflections and inner battles documented here:  
 ➡️ [Silent Warrior Philosophy]({{ site.baseurl }}/philosophy/)
+
+
+
+📌 **Who is the Silent Warrior?**  
+Discover the mindset and origin story:  
+➡️ [Walking the Silent Warrior’s Path]({{ site.baseurl }}/about/)
 
 ---
 
