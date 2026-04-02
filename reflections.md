@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Reflections"
-permalink: /philosophy/
+permalink: /reflections/
 author_profile: false
 entries_layout: list
 ---
