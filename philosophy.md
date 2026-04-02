@@ -1,18 +1,15 @@
 ---
 layout: single
-title: "Silent Warrior Philosophy"
+title: "Reflections"
 permalink: /philosophy/
 author_profile: false
 ---
 
                                   ════════ ⚔️ Silent Warrior ⚔️ ════════
 
-
 This page collects all reflections written along the Path of the Silent Warrior.
 
 ---
-
-## Reflections
 
 <ul>
 {% for post in site.posts %}
