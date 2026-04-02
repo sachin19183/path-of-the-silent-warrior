@@ -5,11 +5,8 @@ permalink: /philosophy/
 author_profile: false
 ---
 
-[← Back to Silent Warrior Home]({{ site.baseurl }}/)
+                                  ════════ ⚔️ Silent Warrior ⚔️ ════════
 
-════════ ⚔️ Silent Warrior ⚔️ ════════
-
-# Silent Warrior Philosophy
 
 This page collects all reflections written along the Path of the Silent Warrior.
 
@@ -29,5 +26,3 @@ This page collects all reflections written along the Path of the Silent Warrior.
 </ul>
 
 ---
-
-[← Back to Silent Warrior Home]({{ site.baseurl }}/)
