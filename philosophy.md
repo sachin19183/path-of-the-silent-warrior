@@ -3,23 +3,39 @@ layout: single
 title: "Reflections"
 permalink: /philosophy/
 author_profile: false
+entries_layout: list
 ---
 
-                                  ════════ ⚔️ Silent Warrior ⚔️ ════════
+## Reflections
 
-This page collects all reflections written along the Path of the Silent Warrior.
+There are moments when life slows down just enough for us to notice what’s been quietly building within.
+
+Questions.  
+Doubts.  
+Realizations we’ve been avoiding.
+
+This space is a collection of those moments.
+
+There are no polished answers, just honest attempts from real experiences—  
+to understand life, responsibility, pressure, and the search for something that feels true.
 
 ---
 
-<ul>
-{% for post in site.posts %}
-  {% if post.categories contains "philosophy" %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      <span> — {{ post.date | date: "%Y-%m-%d" }}</span>
-    </li>
-  {% endif %}
+### 🧭 Start somewhere
+
+If you're new, begin with any piece that resonates.  
+Each reflection stands on its own, yet all are part of the same inward journey.
+
+---
+
+{% assign reflections = site.posts | where_exp: "post", "post.categories contains 'philosophy'" %}
+
+{% for post in reflections %}
+### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+
+
+{{ post.excerpt }}
+
+---
+
 {% endfor %}
-</ul>
-
----
