@@ -2,11 +2,14 @@
 layout: single
 title: "Silent Warrior’s Philosophy: Discipline Over Destiny"
 categories: [philosophy]
+classes: wide
+author_profile: false
+read_time: false
+show_date: false
 ---
 
-════════ ⚔️ Silent Warrior ⚔️ ════════
 
-# Silent Warrior’s Philosophy: Discipline Over Destiny
+# Discipline Over Destiny
 
 As human beings, we are capable of doing many things — both good and bad. We believe we can control how life should be sustained on Earth: how to grow food, how to travel the world, and how to create tools that make life easier. We convince ourselves that we control our external circumstances.
 
@@ -33,8 +36,3 @@ If you maintain discipline and consistency, you can overcome difficult times.
 Even the greatest talent becomes useless without discipline and practice.
 
 ---
-
-[← Back to Silent Warrior Home]({{ site.baseurl }}/)
-
-
-*Silent warrior - He walks quietly… yet rises every day*
