@@ -1,6 +1,6 @@
-title: "Path of the Silent Warrior"
-name: "Silent Warrior"
-description: "Personal views & philosophy driven blogs"
+title: "The Inner Path"
+name: "The Inner Path"
+description: "Reflections on finding an honest life in a noisy world"
 author:
   name: "Silent Warrior"
 analytics:
@@ -11,7 +11,7 @@ analytics:
 
 google_site_verification: KefY_ZWqzA3q_Uxxlf5eZa7d6g1H0xSPPg-VcgbdlBA
 
-# Use the same remote theme as KS Tech Notes
+# Use the same remote theme as Tecch Blogs
 remote_theme: "mmistakes/minimal-mistakes"
 collections:
   posts:
