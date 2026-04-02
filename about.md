@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Path of Silent Warrior"
+title: "Who Am I"
 permalink: /about/
 author_profile: false
 
