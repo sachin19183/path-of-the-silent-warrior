@@ -1,15 +1,13 @@
 ---
 layout: single
-title: ""
+title: "Discipline Over Destiny"
 categories: [reflections]
 author_profile: false
 read_time: false
 show_date: false
 ---
 
-# Discipline Over Destiny
-
-As human beings, we are capable of doing many things — both good and bad. We believe we can control how life should be sustained on Earth: how to grow food, how to travel the world, and how to create tools that make life easier. We convince ourselves that we control our external circumstances.
+       As human beings, we are capable of doing many things — both good and bad. We believe we can control how life should be sustained on Earth: how to grow food, how to travel the world, and how to create tools that make life easier. We convince ourselves that we control our external circumstances.
 
 But when I think deeply, I find the opposite to be true.
 
