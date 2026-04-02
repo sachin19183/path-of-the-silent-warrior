@@ -7,7 +7,7 @@ entries_layout: list
 ---
 
 ## Reflections
-
+![Reflections Image](/assets/reflections.png){: .full}
 There are moments when life slows down just enough for us to notice what’s been quietly building within.
 
 Questions.  
