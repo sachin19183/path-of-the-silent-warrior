@@ -1,0 +1,24 @@
+/* ========================================
+   Improve Reading Experience (Inner Path)
+======================================== */
+
+/* Main content container */
+.page__content {
+  max-width: 720px;        /* controls text width */
+  margin: 0 auto;          /* centers content */
+  padding: 0 1.2rem;       /* adds left/right breathing space */
+  line-height: 1.8;        /* improves readability */
+  font-size: 1.05rem;      /* slightly larger text */
+}
+
+/* Paragraph spacing */
+.page__content p {
+  margin-bottom: 1.4em;
+}
+
+/* Headings spacing */
+.page__content h2,
+.page__content h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
