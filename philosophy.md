@@ -28,7 +28,7 @@ Each reflection stands on its own, yet all are part of the same inward journey.
 
 ---
 
-{% assign reflections = site.posts | where_exp: "post", "post.categories contains 'philosophy'" %}
+{% assign reflections = site.posts | where_exp: "post", "post.categories contains 'reflections'" %}
 
 {% for post in reflections %}
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
