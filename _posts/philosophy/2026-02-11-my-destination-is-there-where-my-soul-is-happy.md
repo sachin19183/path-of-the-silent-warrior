@@ -106,7 +106,6 @@ Each one has their own path. What suits one may not be suitable for another indi
 However, one thing I believe in very strongly — if we can make a positive change in someone’s life, that is success. If we can resolve conflict without bias or favoritism, that is success. If we can enjoy little moments in our present, that too is success.
 
 We should strive to be in that position.
-
 There is no end to greed or perfection. Knowing when to stop — or slow down — is the key.
 
 If our moral compass points towards being human first, then I am sure we can make Earth a better place to live for all living beings.
