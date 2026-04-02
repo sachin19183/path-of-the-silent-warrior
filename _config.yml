@@ -17,6 +17,7 @@ collections:
   posts:
     output: true
 breadcrumbs: false
+post_navigation: true
 
 # Project site settings (IMPORTANT)
 url: "https://thesilentwarrior.org"
