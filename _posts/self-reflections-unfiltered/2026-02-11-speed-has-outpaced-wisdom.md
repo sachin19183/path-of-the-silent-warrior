@@ -2,6 +2,7 @@
 title: "Speed Has Outpaced Wisdom"
 date: 2026-02-11
 folder: self-reflections-unfiltered
+category: [philosophy]
 tags: [technology, humanity, reflection, disruption]
 tone: personal
 ---
