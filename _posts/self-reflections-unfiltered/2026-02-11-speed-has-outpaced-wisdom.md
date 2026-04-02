@@ -8,14 +8,19 @@ read_time: false
 show_date: false
 ---
 
-*As a millenial i have seen may be too many technological shifts in my short lifetime of 40 odd years. Being born in a developing nation with limited technological acces, life was slow, no rush.
-The priority of government was very basic but essential- Provide Food, Clothes, Home (ROTI, KAPDA, MAKAAN)*
+   As a millenial i have seen may be too many technological shifts in my short lifetime of 40 odd years. Being born in a developing nation with limited technological acces, life was slow, no rush.
+
+
+The priority of government was very basic but essential- Provide Food, Clothes, Home (ROTI, KAPDA, MAKAAN)
+
 Landline phones, Television, cars were accessible for only priviledged ones. During my childhood we got radio as our means of entertainment where we used to wait for the Chitrahar, Binaca geetmala and ofcourse on Sunday afternoon the Diamond comics overview for the upcoming Chacha choudhery comics.
+
+
 We as children and our parents and our joint family had time to spend with each other. We didn't had much in terms of facility but we had time:
--To play outdoors with friends
--To talk to our parents and vice versa
--To just be in our word
--And ofcourse study in between when forced to do so
+- To play outdoors with friends
+- To talk to our parents and vice versa
+- To just be in our word
+- And ofcourse study in between when forced to do so
 
 > Life was slow and we were content living that life..
 
@@ -28,6 +33,7 @@ This shift is way to qucik to react for anyone. Everyone is feeling the heat. Ev
 If we look it from a capitalistic mindset, we all strive for growth, to become better than what we were yesterday. But the area of growth is unfortuanetly heabvily focusssed on materialistic domain. We are ignoring on how to become a better human being who strives to protect the environment, the social welfare, self well being.
 
 And a question arose in my mind:
+ 
 > **Are we compromising way to much just to grow our profits?**
 
 The answer will be different in different context. My view point is that i dont want to exhaust all resources for myself only.
