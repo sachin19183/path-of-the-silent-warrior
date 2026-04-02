@@ -2,13 +2,13 @@ main:
   - title: "Home"
     url: /
 
-  - title: "About"
+  - title: "Who am I"
     url: /about/
 
-  - title: "Philosophy"
+  - title: "Reflections"
     url: /philosophy/
 
-  - title: "Tech Notes"
+  - title: "Tech Blogs"
     url: https://thesilentwarrior.org
     external: true
 
