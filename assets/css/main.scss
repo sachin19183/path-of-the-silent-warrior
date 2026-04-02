@@ -99,3 +99,8 @@
     .contact-links { align-items: flex-start; }
   }
 }
+.layout--single .page__content {
+  max-width: 720px !important;
+  margin: 0 auto !important;
+  padding: 0 1.2rem !important;
+}
