@@ -49,3 +49,5 @@ After going through all of this, I realized a few things that might help others 
 13. Most important: celebrate your wins. Once you achieve a milestone, reward yourself — it really matters
 
 The Silent Warrior hopes these pointers help you in your learning journey.
+
+
