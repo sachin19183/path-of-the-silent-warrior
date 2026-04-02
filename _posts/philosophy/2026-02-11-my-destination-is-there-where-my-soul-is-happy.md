@@ -1,7 +1,7 @@
 ---
 title: "Finding happiness while carrying responsibility"
 date: 2026-02-02
-categories: [philosophy]
+categories: [reflections]
 classes: wide
 author_profile: false
 read_time: false
