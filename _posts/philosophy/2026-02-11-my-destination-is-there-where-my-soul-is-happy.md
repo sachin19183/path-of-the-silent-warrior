@@ -7,6 +7,7 @@ read_time: false
 show_date: false
 ---
 
+
 ## The Question That Surfaces in Silence
 
 There are moments in life when the noise fades…
