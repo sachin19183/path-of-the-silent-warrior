@@ -1,7 +1,7 @@
 ---
 title: 'Breaking the Learn–Forget–Repeat Cycle: Giving Structure to Your Tech Learning Journey'
 date: 2026-03-29
-categories: [philosophy]
+categories: [reflections]
 classes: wide
 author_profile: false
 read_time: false
