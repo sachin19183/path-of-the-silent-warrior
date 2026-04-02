@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "The Silent Path"
-permalink: /
+title: "The Silent Paths"
+permalink: /journal
 classes: wide
 ---
 
