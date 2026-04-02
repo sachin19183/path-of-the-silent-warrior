@@ -6,7 +6,7 @@ main:
     url: /about/
 
   - title: "Reflections"
-    url: /philosophy/
+    url: /reflections/
 
   - title: "Tech Blogs"
     url: https://thesilentwarrior.org
