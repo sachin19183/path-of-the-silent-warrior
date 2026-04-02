@@ -16,7 +16,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 collections:
   posts:
     output: true
-breadcrumbs: true
+breadcrumbs: false
 
 # Project site settings (IMPORTANT)
 url: "https://thesilentwarrior.org"
