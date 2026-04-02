@@ -2,7 +2,6 @@
 layout: single
 title: "Silent Warrior’s Philosophy: Discipline Over Destiny"
 categories: [reflections]
-classes: wide
 author_profile: false
 read_time: false
 show_date: false
