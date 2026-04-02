@@ -33,7 +33,6 @@ Each reflection stands on its own, yet all are part of the same inward journey.
 {% for post in reflections %}
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 
-
 {{ post.excerpt }}
 
 ---
