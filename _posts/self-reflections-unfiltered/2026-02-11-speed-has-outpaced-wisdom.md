@@ -1,7 +1,7 @@
 ---
 title: "Speed Has Outpaced Wisdom"
 date: 2026-02-11
-category: [philosophy]
+category: [reflections]
 classes: wide
 author_profile: false
 read_time: false
