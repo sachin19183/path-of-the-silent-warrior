@@ -1,13 +1,12 @@
 ---
 title: "Speed Has Outpaced Wisdom"
 date: 2026-02-11
-folder: self-reflections-unfiltered
 category: [philosophy]
-tags: [technology, humanity, reflection, disruption]
-tone: personal
+classes: wide
+author_profile: false
+read_time: false
+show_date: false
 ---
-
-## Opening Reflection
 
 *As a millenial i have seen may be too many technological shifts in my short lifetime of 40 odd years. Being born in a developing nation with limited technological acces, life was slow, no rush.
 The priority of government was very basic but essential- Provide Food, Clothes, Home (ROTI, KAPDA, MAKAAN)*
