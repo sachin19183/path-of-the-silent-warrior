@@ -13,7 +13,7 @@ header:
 
 ---
 
-A quiet, competitive soul— who aæways tries to focus on honing his skills in silence than showing off. 
+A quiet, competitive soul— who always tries to focus on honing his skills in silence than showing off. 
 
 When the need arises, he is not afraid to take the responsibility. He does his job, and then walks away back to his dojo. He strongly believes in sharing his skills and knowledge with other willing and deserving warriors. Perhaps every reader carries a fragment of this warrior within..
 
@@ -65,7 +65,7 @@ What i need to do to become that person?
 
 This space is my personal dojo —
 a place where I document my thoughts, struggles, and growth
-as I continue to build that discipline, day by day. Becuase discipline and being consistent is my real strength.
+as I continue to build that discipline, day by day. Because discipline and being consistent is my real strength.
 
 If you’ve ever felt like an underdog, 
 or someone who started late but refuses to stop —
