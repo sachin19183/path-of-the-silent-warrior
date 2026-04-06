@@ -11,10 +11,13 @@ header:
 
 ════════ ⚔️ Who is Silent Warrior ⚔️ ════════
 
-I am a quiet, competitive soul—
-one who refuses to settle for mediocrity,
-who dislikes being unprepared,
-and believes that everything worth having must be earned.
+---
+
+A quiet, competitive soul— who aæways tries to focus on honing his skills in silence than showing off. 
+
+When the need arises, he is not afraid to take the responsibility. He does his job, and then walks away back to his dojo. He strongly believes in sharing his skills and knowledge with other willing and deserving warriors. Perhaps every reader carries a fragment of this warrior within..
+
+---
 
 Being naturally reserved, I’ve often preferred working in isolation.
 Not because I lack ambition,
@@ -62,9 +65,9 @@ What i need to do to become that person?
 
 This space is my personal dojo —
 a place where I document my thoughts, struggles, and growth
-as I continue to build that discipline, day by day.
+as I continue to build that discipline, day by day. Becuase discipline and being consistent is my real strength.
 
-If you’ve ever felt like an underdog,
+If you’ve ever felt like an underdog, 
 or someone who started late but refuses to stop —
 you may find something here that resonates.
 
